@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* outline: 1px dotted black; */
+}
+#container {
+    min-height: 500px;
+    width: 700px;
+    background-color: #D4D1AF;
+    margin: 0px auto;
+}
+#header {
+    /* background-color: blue; */
+    display: block;
+    text-align: center;
+}
+#cats {
+    text-align: center;
+    padding: 10px;
+    /* background-color: red; */
+}
+.headImage {
+    height: 75px;
+    display: inline-block;
+    padding-top: 10px;
+    /* margin: 0px auto; */
+}
+.bluecatimg {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    background-color: lightblue;
+    outline: 3px solid black;
+    margin: 3px;
+}
+.redcatimg {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    background-color: lightcoral;
+    outline: 3px solid black;
+    margin: 3px;
+}
+h1 {
+    display: inline-block;
+    /* text-align: center; */
+}
